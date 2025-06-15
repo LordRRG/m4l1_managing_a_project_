@@ -10,4 +10,3 @@
 ## Fuchsia
 ## Purple
 ## Brown
-## Red
